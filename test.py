@@ -17,3 +17,5 @@ class TestSum(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+#The test results show whether the function works correctly. When the output says “Ran 2 tests – OK”, it means both tests passed and the function returned the expected results for the given inputs. If a test fails, it means there is a problem with the function or the expected value is incorrect. Overall, the tests confirm that the code behaves as expected.
